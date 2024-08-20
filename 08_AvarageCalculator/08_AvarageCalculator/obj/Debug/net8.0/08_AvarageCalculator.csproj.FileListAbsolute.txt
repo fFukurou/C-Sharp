@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\bin\Debug\net8.0\08_AvarageCalculator.exe
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\bin\Debug\net8.0\08_AvarageCalculator.deps.json
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\bin\Debug\net8.0\08_AvarageCalculator.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\bin\Debug\net8.0\08_AvarageCalculator.dll
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\bin\Debug\net8.0\08_AvarageCalculator.pdb
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.sourcelink.json
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.dll
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\refint\08_AvarageCalculator.dll
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.pdb
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\08_AvarageCalculator.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\08_AvarageCalculator\08_AvarageCalculator\obj\Debug\net8.0\ref\08_AvarageCalculator.dll

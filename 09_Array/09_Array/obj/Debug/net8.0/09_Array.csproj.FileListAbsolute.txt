@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\bin\Debug\net8.0\09_Array.exe
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\bin\Debug\net8.0\09_Array.deps.json
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\bin\Debug\net8.0\09_Array.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\bin\Debug\net8.0\09_Array.dll
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\bin\Debug\net8.0\09_Array.pdb
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.sourcelink.json
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.dll
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\refint\09_Array.dll
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.pdb
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\09_Array.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\09_Array\09_Array\obj\Debug\net8.0\ref\09_Array.dll

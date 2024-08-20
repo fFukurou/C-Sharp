@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\10_Matrices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F88E22-7F01-4BD1-AFCB-8280E943CC6E}|10_Matrices\\10_Matrices.csproj|c:\\users\\supev\\source\\repos\\udemy\\10_matrices\\10_matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F88E22-7F01-4BD1-AFCB-8280E943CC6E}|10_Matrices\\10_Matrices.csproj|solutionrelative:10_matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\10_Matrices\\10_Matrices\\Program.cs",
+              "RelativeDocumentMoniker": "10_Matrices\\Program.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\10_Matrices\\10_Matrices\\Program.cs",
+              "RelativeToolTip": "10_Matrices\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:43:52.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

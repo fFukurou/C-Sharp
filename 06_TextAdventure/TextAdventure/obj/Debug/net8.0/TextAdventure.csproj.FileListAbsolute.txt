@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\bin\Debug\net8.0\TextAdventure.exe
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\bin\Debug\net8.0\TextAdventure.deps.json
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\bin\Debug\net8.0\TextAdventure.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\bin\Debug\net8.0\TextAdventure.dll
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\bin\Debug\net8.0\TextAdventure.pdb
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.sourcelink.json
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.dll
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\refint\TextAdventure.dll
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.pdb
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\TextAdventure.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\TextAdventure\TextAdventure\obj\Debug\net8.0\ref\TextAdventure.dll

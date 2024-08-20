@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\bin\Debug\net8.0\10_Matrices.exe
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\bin\Debug\net8.0\10_Matrices.deps.json
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\bin\Debug\net8.0\10_Matrices.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\bin\Debug\net8.0\10_Matrices.dll
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\bin\Debug\net8.0\10_Matrices.pdb
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.sourcelink.json
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.dll
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\refint\10_Matrices.dll
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.pdb
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\10_Matrices.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\10_Matrices\10_Matrices\obj\Debug\net8.0\ref\10_Matrices.dll

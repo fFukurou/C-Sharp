@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\bin\Debug\net8.0\tests2_DoWhile.exe
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\bin\Debug\net8.0\tests2_DoWhile.deps.json
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\bin\Debug\net8.0\tests2_DoWhile.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\bin\Debug\net8.0\tests2_DoWhile.dll
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\bin\Debug\net8.0\tests2_DoWhile.pdb
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.sourcelink.json
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.dll
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\refint\tests2_DoWhile.dll
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.pdb
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\tests2_DoWhile.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\tests2_DoWhile\tests2_DoWhile\obj\Debug\net8.0\ref\tests2_DoWhile.dll
