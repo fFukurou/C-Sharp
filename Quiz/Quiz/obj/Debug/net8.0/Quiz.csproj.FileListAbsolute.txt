@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\bin\Debug\net8.0\Quiz.exe
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\bin\Debug\net8.0\Quiz.deps.json
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\bin\Debug\net8.0\Quiz.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\bin\Debug\net8.0\Quiz.dll
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\bin\Debug\net8.0\Quiz.pdb
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.sourcelink.json
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.dll
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\refint\Quiz.dll
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.pdb
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\Quiz\Quiz\obj\Debug\net8.0\ref\Quiz.dll

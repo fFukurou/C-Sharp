@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\bin\Debug\net8.0\Rocket_Landing.exe
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\bin\Debug\net8.0\Rocket_Landing.deps.json
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\bin\Debug\net8.0\Rocket_Landing.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\bin\Debug\net8.0\Rocket_Landing.dll
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\bin\Debug\net8.0\Rocket_Landing.pdb
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.sourcelink.json
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.dll
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\refint\Rocket_Landing.dll
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.pdb
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\Rocket_Landing.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\Rocket_Landing\Rocket_Landing\obj\Debug\net8.0\ref\Rocket_Landing.dll

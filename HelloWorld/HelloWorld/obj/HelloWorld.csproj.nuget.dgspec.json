@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\supev\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\supev\\source\\repos\\udemy\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\supev\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\supev\\source\\repos\\udemy\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\supev\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\supev\\source\\repos\\udemy\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\supev\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\supev\\source\\repos\\udemy\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\supev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\supev\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\supev\\source\\repos\\udemy\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\supev\\AppData\\Roaming\\NuGet\\NuGet.Config",

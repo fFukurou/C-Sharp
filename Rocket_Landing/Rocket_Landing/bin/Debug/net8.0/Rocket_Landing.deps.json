@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rocket_Landing/1.0.0": {
+        "runtime": {
+          "Rocket_Landing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rocket_Landing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

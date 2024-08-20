@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\bin\Debug\net8.0\tests1_TryParse_Random.exe
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\bin\Debug\net8.0\tests1_TryParse_Random.deps.json
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\bin\Debug\net8.0\tests1_TryParse_Random.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\bin\Debug\net8.0\tests1_TryParse_Random.dll
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\bin\Debug\net8.0\tests1_TryParse_Random.pdb
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.sourcelink.json
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.dll
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\refint\tests1_TryParse_Random.dll
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.pdb
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\tests1_TryParse_Random.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\tests1_TryParse_Random\tests1_TryParse_Random\obj\Debug\net8.0\ref\tests1_TryParse_Random.dll

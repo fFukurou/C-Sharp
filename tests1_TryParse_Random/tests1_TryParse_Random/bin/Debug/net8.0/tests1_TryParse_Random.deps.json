@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tests1_TryParse_Random/1.0.0": {
+        "runtime": {
+          "tests1_TryParse_Random.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tests1_TryParse_Random/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

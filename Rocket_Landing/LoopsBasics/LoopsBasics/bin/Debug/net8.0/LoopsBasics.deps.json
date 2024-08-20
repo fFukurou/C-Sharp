@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoopsBasics/1.0.0": {
+        "runtime": {
+          "LoopsBasics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopsBasics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
