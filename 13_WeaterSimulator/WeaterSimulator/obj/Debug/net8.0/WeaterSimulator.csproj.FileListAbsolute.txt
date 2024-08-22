@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\bin\Debug\net8.0\WeaterSimulator.exe
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\bin\Debug\net8.0\WeaterSimulator.deps.json
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\bin\Debug\net8.0\WeaterSimulator.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\bin\Debug\net8.0\WeaterSimulator.dll
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\bin\Debug\net8.0\WeaterSimulator.pdb
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.sourcelink.json
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.dll
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\refint\WeaterSimulator.dll
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.pdb
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\WeaterSimulator.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\WeaterSimulator\WeaterSimulator\obj\Debug\net8.0\ref\WeaterSimulator.dll

@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\bin\Debug\net8.0\12_OldStyle.exe
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\bin\Debug\net8.0\12_OldStyle.deps.json
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\bin\Debug\net8.0\12_OldStyle.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\bin\Debug\net8.0\12_OldStyle.dll
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\bin\Debug\net8.0\12_OldStyle.pdb
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.sourcelink.json
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.dll
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\refint\12_OldStyle.dll
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.pdb
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\12_OldStyle.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\12_OldStyle\12_OldStyle\obj\Debug\net8.0\ref\12_OldStyle.dll

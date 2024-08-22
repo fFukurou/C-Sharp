@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\bin\Debug\net8.0\11_methods_and_functions.exe
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\bin\Debug\net8.0\11_methods_and_functions.deps.json
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\bin\Debug\net8.0\11_methods_and_functions.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\bin\Debug\net8.0\11_methods_and_functions.dll
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\bin\Debug\net8.0\11_methods_and_functions.pdb
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.sourcelink.json
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.dll
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\refint\11_methods_and_functions.dll
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.pdb
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\11_methods_and_functions.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\11_methods_and_functions\11_methods_and_functions\obj\Debug\net8.0\ref\11_methods_and_functions.dll
