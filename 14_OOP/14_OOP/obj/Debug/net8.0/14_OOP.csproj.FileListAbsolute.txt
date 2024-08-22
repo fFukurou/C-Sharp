@@ -1,0 +1,15 @@
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\bin\Debug\net8.0\14_OOP.exe
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\bin\Debug\net8.0\14_OOP.deps.json
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\bin\Debug\net8.0\14_OOP.runtimeconfig.json
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\bin\Debug\net8.0\14_OOP.dll
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\bin\Debug\net8.0\14_OOP.pdb
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.AssemblyInfoInputs.cache
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.AssemblyInfo.cs
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.csproj.CoreCompileInputs.cache
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.sourcelink.json
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.dll
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\refint\14_OOP.dll
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.pdb
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\14_OOP.genruntimeconfig.cache
+C:\Users\supev\source\repos\udemy\14_OOP\14_OOP\obj\Debug\net8.0\ref\14_OOP.dll
