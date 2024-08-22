@@ -8,6 +8,8 @@ namespace _14_OOP
 {
     internal class Car
     {
+        public static int NumberOfCars = 0;
+
         // Member variable
         // Backing field of the properties
         private string _brand = "";
@@ -45,10 +47,16 @@ namespace _14_OOP
         //Constructor
         public Car(string brand, string model, bool isLuxury)
         {
+
             Brand = brand;
             Model = model;
             IsLuxury = isLuxury;
+            NumberOfCars++;
             
+        }
+        public Car()
+        {
+            NumberOfCars++;
         }
 
 

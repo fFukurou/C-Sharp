@@ -26,6 +26,17 @@
 
             // Testing Methods
             tesla.Drive();
+            myCustomer.SetDetails(name: "Chris Wilson", address: "GGG");
+            Console.WriteLine($"{myCustomer.Address}");
+
+            //Static Methods and Properties
+            Customer.DoSomeCustomerStuff();
+            jinSakai.GetDetails();
+            frankTheTank.GetDetails();
+            Console.WriteLine($"\nNumber of cars: {Car.NumberOfCars}");
+            Console.WriteLine($"{myCustomer.Name} has an ID of {myCustomer.Id}");
+            jinSakai.Password = "HonorDiedOnTheBeach";
+
         }
     }
 }
