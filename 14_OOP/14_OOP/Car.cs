@@ -8,7 +8,11 @@ namespace _14_OOP
 {
     internal class Car
     {
+        // CONST will be the same for every object created. Needs to be initialized during compile time.
+        // READONLY will/can be different for every individual object. Can only be assigned in a constructor or as a field
+        // IF it is PRIVATE, then the naming convention will be overwritten by _nameOfVariable
         public static int NumberOfCars = 0;
+        public const int NumberOfWeels = 4;
 
         // Member variable
         // Backing field of the properties
