@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\16_Lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B88672-C50D-4EDE-BEC3-68A9B6AD49F3}|16_Lists\\16_Lists.csproj|c:\\users\\supev\\source\\repos\\udemy\\16_lists\\16_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B88672-C50D-4EDE-BEC3-68A9B6AD49F3}|16_Lists\\16_Lists.csproj|solutionrelative:16_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B88672-C50D-4EDE-BEC3-68A9B6AD49F3}|16_Lists\\16_Lists.csproj|c:\\users\\supev\\source\\repos\\udemy\\16_lists\\16_lists\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B88672-C50D-4EDE-BEC3-68A9B6AD49F3}|16_Lists\\16_Lists.csproj|solutionrelative:16_lists\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\16_Lists\\16_Lists\\Program.cs",
+              "RelativeDocumentMoniker": "16_Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\16_Lists\\16_Lists\\Program.cs",
+              "RelativeToolTip": "16_Lists\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwFgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T20:37:03.086Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\16_Lists\\16_Lists\\Product.cs",
+              "RelativeDocumentMoniker": "16_Lists\\Product.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\16_Lists\\16_Lists\\Product.cs",
+              "RelativeToolTip": "16_Lists\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:32:02.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
