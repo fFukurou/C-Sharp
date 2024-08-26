@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|c:\\users\\supev\\source\\repos\\udemy\\21_inheritanceapp\\21_inheritanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|solutionrelative:21_inheritanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|c:\\users\\supev\\source\\repos\\udemy\\21_inheritanceapp\\21_inheritanceapp\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|solutionrelative:21_inheritanceapp\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|c:\\users\\supev\\source\\repos\\udemy\\21_inheritanceapp\\21_inheritanceapp\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|solutionrelative:21_inheritanceapp\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|c:\\users\\supev\\source\\repos\\udemy\\21_inheritanceapp\\21_inheritanceapp\\collie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|solutionrelative:21_inheritanceapp\\collie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|c:\\users\\supev\\source\\repos\\udemy\\21_inheritanceapp\\21_inheritanceapp\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637CC1DD-281C-4046-A6B1-697269C6F859}|21_InheritanceApp\\21_InheritanceApp.csproj|solutionrelative:21_inheritanceapp\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +44,61 @@
               "RelativeDocumentMoniker": "21_InheritanceApp\\Program.cs",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Program.cs",
               "RelativeToolTip": "21_InheritanceApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T00:45:19.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Animal.cs",
+              "RelativeDocumentMoniker": "21_InheritanceApp\\Animal.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Animal.cs",
+              "RelativeToolTip": "21_InheritanceApp\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:22:59.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Dog.cs",
+              "RelativeDocumentMoniker": "21_InheritanceApp\\Dog.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Dog.cs",
+              "RelativeToolTip": "21_InheritanceApp\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:23:50.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collie.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Collie.cs",
+              "RelativeDocumentMoniker": "21_InheritanceApp\\Collie.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Collie.cs",
+              "RelativeToolTip": "21_InheritanceApp\\Collie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:30:50.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Cat.cs",
+              "RelativeDocumentMoniker": "21_InheritanceApp\\Cat.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Cat.cs",
+              "RelativeToolTip": "21_InheritanceApp\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:32:09.41Z",
               "EditorCaption": ""
             }
           ]
