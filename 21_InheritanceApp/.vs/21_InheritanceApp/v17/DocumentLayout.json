@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "21_InheritanceApp\\Program.cs",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Program.cs",
               "RelativeToolTip": "21_InheritanceApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T00:45:19.667Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "21_InheritanceApp\\Animal.cs",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Animal.cs",
               "RelativeToolTip": "21_InheritanceApp\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T22:22:59.15Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "21_InheritanceApp\\Dog.cs",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\21_InheritanceApp\\21_InheritanceApp\\Dog.cs",
               "RelativeToolTip": "21_InheritanceApp\\Dog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T22:23:50.852Z",
               "EditorCaption": ""
@@ -85,8 +85,7 @@
               "RelativeToolTip": "21_InheritanceApp\\Collie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:30:50.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:30:50.467Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "21_InheritanceApp\\Cat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:32:09.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:32:09.41Z"
             }
           ]
         }
