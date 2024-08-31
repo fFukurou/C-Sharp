@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|c:\\users\\supev\\source\\repos\\udemy\\25_decoupling\\25_decoupling\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|solutionrelative:25_decoupling\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|c:\\users\\supev\\source\\repos\\udemy\\25_decoupling\\25_decoupling\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|solutionrelative:25_decoupling\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|c:\\users\\supev\\source\\repos\\udemy\\25_decoupling\\25_decoupling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|solutionrelative:25_decoupling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|c:\\users\\supev\\source\\repos\\udemy\\25_decoupling\\25_decoupling\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|solutionrelative:25_decoupling\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|c:\\users\\supev\\source\\repos\\udemy\\25_decoupling\\25_decoupling\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF40940-64E9-4D27-9EB2-982133C44594}|25_Decoupling\\25_Decoupling.csproj|solutionrelative:25_decoupling\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\Application.cs",
+              "RelativeDocumentMoniker": "25_Decoupling\\Application.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\Application.cs",
+              "RelativeToolTip": "25_Decoupling\\Application.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:16:30.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\DatabaseLogger.cs",
+              "RelativeDocumentMoniker": "25_Decoupling\\DatabaseLogger.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\DatabaseLogger.cs",
+              "RelativeToolTip": "25_Decoupling\\DatabaseLogger.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:13:11.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\FileLogger.cs",
+              "RelativeDocumentMoniker": "25_Decoupling\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\FileLogger.cs",
+              "RelativeToolTip": "25_Decoupling\\FileLogger.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:11:13.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\ILogger.cs",
+              "RelativeDocumentMoniker": "25_Decoupling\\ILogger.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\ILogger.cs",
+              "RelativeToolTip": "25_Decoupling\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:10:48.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\Program.cs",
+              "RelativeDocumentMoniker": "25_Decoupling\\Program.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\25_Decoupling\\25_Decoupling\\Program.cs",
+              "RelativeToolTip": "25_Decoupling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:06:13.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

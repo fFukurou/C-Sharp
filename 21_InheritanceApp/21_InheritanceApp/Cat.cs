@@ -10,6 +10,7 @@ namespace _21_InheritanceApp
     {
         public override void MakeSound()
         {
+            base.MakeSound();
             Console.WriteLine("Cat is meowing...");
         }
     }

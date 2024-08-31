@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|c:\\users\\supev\\source\\repos\\udemy\\23_intarfaces\\23_intarfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|solutionrelative:23_intarfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|c:\\users\\supev\\source\\repos\\udemy\\23_intarfaces\\23_intarfaces\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|solutionrelative:23_intarfaces\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|c:\\users\\supev\\source\\repos\\udemy\\23_intarfaces\\23_intarfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|solutionrelative:23_intarfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|c:\\users\\supev\\source\\repos\\udemy\\23_intarfaces\\23_intarfaces\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966F7AA-7825-4F74-8BCE-E6095A98F4B1}|23_Intarfaces\\23_Intarfaces.csproj|solutionrelative:23_intarfaces\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\Program.cs",
+              "RelativeDocumentMoniker": "23_Intarfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\Program.cs",
+              "RelativeToolTip": "23_Intarfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:38:36.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "23_Intarfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\IAnimal.cs",
+              "RelativeToolTip": "23_Intarfaces\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:43:05.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\Cat.cs",
+              "RelativeDocumentMoniker": "23_Intarfaces\\Cat.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\Cat.cs",
+              "RelativeToolTip": "23_Intarfaces\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:34:52.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\Dog.cs",
+              "RelativeDocumentMoniker": "23_Intarfaces\\Dog.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\23_Intarfaces\\23_Intarfaces\\Dog.cs",
+              "RelativeToolTip": "23_Intarfaces\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:22:31.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

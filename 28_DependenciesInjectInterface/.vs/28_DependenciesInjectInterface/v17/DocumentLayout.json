@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|c:\\users\\supev\\source\\repos\\udemy\\28_dependenciesinjectinterface\\26_dependencies\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|solutionrelative:26_dependencies\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|c:\\users\\supev\\source\\repos\\udemy\\28_dependenciesinjectinterface\\26_dependencies\\itooluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|solutionrelative:26_dependencies\\itooluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|c:\\users\\supev\\source\\repos\\udemy\\28_dependenciesinjectinterface\\26_dependencies\\saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|solutionrelative:26_dependencies\\saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|c:\\users\\supev\\source\\repos\\udemy\\28_dependenciesinjectinterface\\26_dependencies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|solutionrelative:26_dependencies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|c:\\users\\supev\\source\\repos\\udemy\\28_dependenciesinjectinterface\\26_dependencies\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52B765B-411D-46CB-A049-ADB740238D21}|26_Dependencies\\26_DependenciesConstructor.csproj|solutionrelative:26_dependencies\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Saw.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Saw.cs",
+              "RelativeDocumentMoniker": "26_Dependencies\\Saw.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Saw.cs",
+              "RelativeToolTip": "26_Dependencies\\Saw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:55:02.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Program.cs",
+              "RelativeDocumentMoniker": "26_Dependencies\\Program.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Program.cs",
+              "RelativeToolTip": "26_Dependencies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:55:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hammer.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Hammer.cs",
+              "RelativeDocumentMoniker": "26_Dependencies\\Hammer.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Hammer.cs",
+              "RelativeToolTip": "26_Dependencies\\Hammer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:55:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IToolUser.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\IToolUser.cs",
+              "RelativeDocumentMoniker": "26_Dependencies\\IToolUser.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\IToolUser.cs",
+              "RelativeToolTip": "26_Dependencies\\IToolUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:55:07.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Builder.cs",
+              "RelativeDocumentMoniker": "26_Dependencies\\Builder.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\28_DependenciesInjectInterface\\26_Dependencies\\Builder.cs",
+              "RelativeToolTip": "26_Dependencies\\Builder.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:55:00.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

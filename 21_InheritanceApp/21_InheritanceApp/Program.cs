@@ -15,6 +15,11 @@
             Cat cat = new Cat();
             cat.MakeSound();
 
+            // Part 2 of Polymorphism
+            Console.WriteLine("\n\n\n");
+            Animal randomDog = new Dog();
+            randomDog.MakeSound(); 
+
         }
     }
 }

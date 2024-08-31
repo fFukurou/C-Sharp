@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _21_InheritanceApp
+namespace _26_Dependencies
 {
-    internal class Dog: Animal
+    internal class Saw
     {
-        public override void MakeSound()
+        public void Use()
         {
-            Console.WriteLine("Dog is Barking...");
+            Console.WriteLine("Sawing...");
         }
     }
 }
