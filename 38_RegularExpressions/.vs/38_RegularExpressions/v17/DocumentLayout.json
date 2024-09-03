@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|c:\\users\\supev\\source\\repos\\udemy\\38_regularexpressions\\38_regularexpressions\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|solutionrelative:38_regularexpressions\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|c:\\users\\supev\\source\\repos\\udemy\\38_regularexpressions\\38_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|solutionrelative:38_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sample.txt",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Sample.txt",
+              "RelativeDocumentMoniker": "38_RegularExpressions\\Sample.txt",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Sample.txt",
+              "RelativeToolTip": "38_RegularExpressions\\Sample.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-03T23:26:50.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Program.cs",
+              "RelativeDocumentMoniker": "38_RegularExpressions\\Program.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Program.cs",
+              "RelativeToolTip": "38_RegularExpressions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:26:22.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
