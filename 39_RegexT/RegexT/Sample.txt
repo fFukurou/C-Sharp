@@ -1,16 +1,5 @@
 ﻿1234567890
 			
-
-
-			// GERMAN TELEFONE NUMBER CHALLENGE
-			(\+49)|0049|0?1(6|7)\d/\d{8}
-
-			//MR MS CHALLENGE
-			Mr\.?\s\w+
-			// WEBSITE CHALLENGE
-			https?://(www.)?(\w+)(\.\w+)
-
-
 202-555-0102
 202-555-0196
 202.555.0196
@@ -19,7 +8,6 @@
 +49165/12312347
 0049165/12312347
 
-abcdefghijklmnopqurtuvwxyz
 abcdefghijklmnopqurtuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 

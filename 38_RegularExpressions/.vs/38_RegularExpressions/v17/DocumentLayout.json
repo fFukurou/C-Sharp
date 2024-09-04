@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|c:\\users\\supev\\source\\repos\\udemy\\38_regularexpressions\\38_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|solutionrelative:38_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|c:\\users\\supev\\source\\repos\\udemy\\38_regularexpressions\\38_regularexpressions\\steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|solutionrelative:38_regularexpressions\\steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|c:\\users\\supev\\source\\repos\\udemy\\38_regularexpressions\\38_regularexpressions\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|solutionrelative:38_regularexpressions\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|c:\\users\\supev\\source\\repos\\udemy\\38_regularexpressions\\38_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|solutionrelative:38_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|c:\\users\\supev\\source\\repos\\udemy\\38_regularexpressions\\38_regularexpressions\\snippets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0091F359-EFB9-4A7C-9393-8FE6E7164C91}|38_RegularExpressions\\38_RegularExpressions.csproj|solutionrelative:38_regularexpressions\\snippets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Steps.txt",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Steps.txt",
+              "RelativeDocumentMoniker": "38_RegularExpressions\\Steps.txt",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Steps.txt",
+              "RelativeToolTip": "38_RegularExpressions\\Steps.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-04T21:47:16.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snippets.txt",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Snippets.txt",
+              "RelativeDocumentMoniker": "38_RegularExpressions\\Snippets.txt",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Snippets.txt",
+              "RelativeToolTip": "38_RegularExpressions\\Snippets.txt",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-04T21:47:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Sample.txt",
               "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Sample.txt",
               "RelativeDocumentMoniker": "38_RegularExpressions\\Sample.txt",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Sample.txt",
               "RelativeToolTip": "38_RegularExpressions\\Sample.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-03T23:26:50.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Program.cs",
               "RelativeDocumentMoniker": "38_RegularExpressions\\Program.cs",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\38_RegularExpressions\\38_RegularExpressions\\Program.cs",
               "RelativeToolTip": "38_RegularExpressions\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwB0AAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:26:22.747Z",
               "EditorCaption": ""
