@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\40_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C106CBA-BD32-4EB9-BE03-BC8E792A3F83}|40_WPF\\40_WPF.csproj|c:\\users\\supev\\source\\repos\\udemy\\40_wpf\\40_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4C106CBA-BD32-4EB9-BE03-BC8E792A3F83}|40_WPF\\40_WPF.csproj|solutionrelative:40_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C106CBA-BD32-4EB9-BE03-BC8E792A3F83}|40_WPF\\40_WPF.csproj|c:\\users\\supev\\source\\repos\\udemy\\40_wpf\\40_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C106CBA-BD32-4EB9-BE03-BC8E792A3F83}|40_WPF\\40_WPF.csproj|solutionrelative:40_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C106CBA-BD32-4EB9-BE03-BC8E792A3F83}|40_WPF\\40_WPF.csproj|c:\\users\\supev\\source\\repos\\udemy\\40_wpf\\40_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C106CBA-BD32-4EB9-BE03-BC8E792A3F83}|40_WPF\\40_WPF.csproj|solutionrelative:40_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C106CBA-BD32-4EB9-BE03-BC8E792A3F83}|40_WPF\\40_WPF.csproj|c:\\users\\supev\\source\\repos\\udemy\\40_wpf\\40_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\40_WPF\\40_WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "40_WPF\\MainWindow.xaml",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\40_WPF\\40_WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "40_WPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\40_WPF\\40_WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "40_WPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T22:23:48.003Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "40_WPF\\App.xaml.cs",
               "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\40_WPF\\40_WPF\\App.xaml.cs",
               "RelativeToolTip": "40_WPF\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T22:27:23.483Z",
               "EditorCaption": ""

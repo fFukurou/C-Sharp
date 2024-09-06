@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:_40_WPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid x:Name="myGrid">
 
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="10"/>
@@ -29,9 +29,12 @@
         </Grid.RowDefinitions>
         
         <Label Grid.Row="1" Grid.Column="2" Content="Title of App"/>
-        <Label Grid.Row="2" Grid.Column="2" Content="Sample Text!"/>
-        <Button Grid.Row="3" Grid.Column="2" Content="A"/>
-        <Button Grid.Row="3" Grid.Column="4" Content="B"/>
+        <Label Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="3" Content="Sample Text!"/>
+        <Button Grid.Row="3" Content="A" FontSize="25" Grid.Column="2" Panel.ZIndex="1" BorderThickness="10,0,10,1" Click="Button_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
 
     </Grid>
 </Window>
