@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|c:\\users\\supev\\source\\repos\\udemy\\45_loginmanagement\\45_loginmanagement\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|solutionrelative:45_loginmanagement\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|c:\\users\\supev\\source\\repos\\udemy\\45_loginmanagement\\45_loginmanagement\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|solutionrelative:45_loginmanagement\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|c:\\users\\supev\\source\\repos\\udemy\\45_loginmanagement\\45_loginmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|solutionrelative:45_loginmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|c:\\users\\supev\\source\\repos\\udemy\\45_loginmanagement\\45_loginmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911F9359-7F8C-4CB4-8486-D02C6F3DB8EE}|45_LoginManagement\\45_LoginManagement.csproj|solutionrelative:45_loginmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\LoginView.xaml",
+              "RelativeDocumentMoniker": "45_LoginManagement\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\LoginView.xaml",
+              "RelativeToolTip": "45_LoginManagement\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T17:55:41.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "45_LoginManagement\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\LoginView.xaml.cs",
+              "RelativeToolTip": "45_LoginManagement\\LoginView.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwDIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:55:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "45_LoginManagement\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\MainWindow.xaml",
+              "RelativeToolTip": "45_LoginManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T17:54:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "45_LoginManagement\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\45_LoginManagement\\45_LoginManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "45_LoginManagement\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:54:31.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
