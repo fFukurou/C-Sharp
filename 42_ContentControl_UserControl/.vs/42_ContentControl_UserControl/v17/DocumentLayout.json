@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|c:\\users\\supev\\source\\repos\\udemy\\42_contentcontrol_usercontrol\\42_contentcontrol_usercontrol\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|solutionrelative:42_contentcontrol_usercontrol\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|c:\\users\\supev\\source\\repos\\udemy\\42_contentcontrol_usercontrol\\42_contentcontrol_usercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|solutionrelative:42_contentcontrol_usercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|c:\\users\\supev\\source\\repos\\udemy\\42_contentcontrol_usercontrol\\42_contentcontrol_usercontrol\\invoiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|solutionrelative:42_contentcontrol_usercontrol\\invoiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|c:\\users\\supev\\source\\repos\\udemy\\42_contentcontrol_usercontrol\\42_contentcontrol_usercontrol\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|solutionrelative:42_contentcontrol_usercontrol\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|c:\\users\\supev\\source\\repos\\udemy\\42_contentcontrol_usercontrol\\42_contentcontrol_usercontrol\\invoiceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|solutionrelative:42_contentcontrol_usercontrol\\invoiceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|c:\\users\\supev\\source\\repos\\udemy\\42_contentcontrol_usercontrol\\42_contentcontrol_usercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E9BCFC0-1E43-47C6-819A-41CAEA96E5C6}|42_ContentControl_UserControl\\42_ContentControl_UserControl.csproj|solutionrelative:42_contentcontrol_usercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceView.xaml",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\InvoiceView.xaml",
+              "RelativeDocumentMoniker": "42_ContentControl_UserControl\\InvoiceView.xaml",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\InvoiceView.xaml",
+              "RelativeToolTip": "42_ContentControl_UserControl\\InvoiceView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T00:13:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\InvoiceView.xaml.cs",
+              "RelativeDocumentMoniker": "42_ContentControl_UserControl\\InvoiceView.xaml.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\InvoiceView.xaml.cs",
+              "RelativeToolTip": "42_ContentControl_UserControl\\InvoiceView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:13:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\LoginView.xaml",
+              "RelativeDocumentMoniker": "42_ContentControl_UserControl\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\LoginView.xaml",
+              "RelativeToolTip": "42_ContentControl_UserControl\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T23:56:58.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "42_ContentControl_UserControl\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\LoginView.xaml.cs",
+              "RelativeToolTip": "42_ContentControl_UserControl\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:57:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "42_ContentControl_UserControl\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\MainWindow.xaml",
+              "RelativeToolTip": "42_ContentControl_UserControl\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T23:52:32.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "42_ContentControl_UserControl\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\supev\\source\\repos\\udemy\\42_ContentControl_UserControl\\42_ContentControl_UserControl\\MainWindow.xaml.cs",
+              "RelativeToolTip": "42_ContentControl_UserControl\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:52:29.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
